@@ -1,8 +1,9 @@
 Responsive-Login-System---Example
 ========
 
-[![Build Status]
+[![Build Status]()
 
+# Setting up
 This is a fully responsive login and sign up system fully functional.
 Make sure you edit the config.php file to much your database:
 

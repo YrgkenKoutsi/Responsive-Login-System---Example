@@ -1,4 +1,4 @@
-Responsive-Login-System---Example
+Fully Responsive-Login-System
 ========
 
 # Setting up
